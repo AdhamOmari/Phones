@@ -1,4 +1,4 @@
-alert ("Welcom to Dr.phone")  
+//*alert ("Welcom to Dr.phone")  
 
 
 var username = prompt ('enter your name') ;
