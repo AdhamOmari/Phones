@@ -1,4 +1,4 @@
-alert ("Welcom to Dr.phone")  
+//*alert ("Welcom to Dr.phone")  
 
 
 var username = prompt ('enter your name') ;
@@ -42,11 +42,11 @@ function askuser(planguage){
  var answer1 = askuser('LG');
 console.log (answer1);
 
-askuser('Sony');
-console.log (answer1);
+var answer2 =askuser('Sony');
+console.log (answer2);
    
-askuser('Lenovo'); 
-console.log (answer1);
+var answer3 =askuser('Lenovo'); 
+console.log (answer3);
 
 var numberimg  =prompt ('please inter how many phons do you want to order ?');
 for (var i =1 ; i<= numberimg ;i++ ){

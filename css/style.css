@@ -1,0 +1,43 @@
+header {
+  background-color:   brown;
+
+}
+h1{
+ text-align: center ;
+}
+
+nav ul li{
+  text-decoration: none ;
+  margin: 25px ;
+display: inline-block ;
+border: 10px soild black ;
+}
+
+img{
+   width: 200px;
+}
+ article {
+   float: left;
+  width: 33.33%;
+ }
+ section{
+    float: left;
+ }
+ p{
+   background-color: gray; 
+border: 10px soild beige }
+
+
+
+
+
+ footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+}
